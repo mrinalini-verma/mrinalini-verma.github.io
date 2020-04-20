@@ -30,5 +30,5 @@ main:
   - title: "Class C"
     url: /classC/
 
-  - title: "Class D"
-    url: /classD/
+  # - title: "Class D"
+  #   url: /classD/
