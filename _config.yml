@@ -17,7 +17,7 @@ repository               : "mrinalini-verma/mrinalini-verma.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mrinalini"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : ""
+  location         : ""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 3"academicpages"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -191,6 +191,50 @@ collections:
 
 # Defaults
 defaults:
+  # _classAposts
+  - scope:
+      path: ""
+      type: classAposts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+  # _classBposts
+  - scope:
+      path: ""
+      type: classBposts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+  # _classCposts
+  - scope:
+      path: ""
+      type: classCposts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
+  # _classDposts
+  - scope:
+      path: ""
+      type: classDposts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: true
   # _posts
   - scope:
       path: ""
