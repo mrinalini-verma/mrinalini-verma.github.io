@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /classB/
-title: "Class B"
+permalink: /class10eng/
+title: "Class X English"
 author_profile: false
 ---
 
@@ -9,7 +9,7 @@ author_profile: false
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
-  {% if tag contains "class B" %}
+  {% if tag contains "Class X English" %}
     {% assign posts = group_items[forloop.index0] %}
     <!-- <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2> -->
     {% for post in posts %}

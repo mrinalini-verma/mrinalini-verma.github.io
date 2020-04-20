@@ -3,7 +3,7 @@ title: 'Post number 1'
 date: 2012-08-14
 permalink: /posts/2012/08/blog-post-1/
 tags:
-  - class A
+  - class X English
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.

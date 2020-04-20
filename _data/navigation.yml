@@ -21,11 +21,11 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Class A"
-    url: /classA/
+  - title: "Class IX Social Science"
+    url: /class9ssc/
     
-  - title: "Class B"
-    url: /classB/
+  - title: "Class X Social Science"
+    url: /class10ssc/
 
-  - title: "Class C"
-    url: /classC/
+  - title: "Class X English"
+    url: /class10eng/
