@@ -30,5 +30,5 @@ redirect_from:
     ]         N H         [       
    /          N            \      
   /           q,            \     
- /                           \ 
+/                           \ 
 </pre>   
