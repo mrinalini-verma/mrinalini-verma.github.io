@@ -6,4 +6,4 @@ tags:
   - Class X Social Science
 ---
 
-This post will show up by default. 
+This post will (hopefully) show up by default. 
