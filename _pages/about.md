@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-      
+<pre style="line-height: 1.25; white-space: pre; text-align: center;">
  \                           /    
   \      So much empty      /     
    \       space here.     /      
@@ -30,4 +30,5 @@ redirect_from:
     ]         N H         [       
    /          N            \      
   /           q,            \     
- /                           \    
+ /                           \ 
+</pre>   
